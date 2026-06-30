@@ -1,0 +1,2 @@
+- Improve Battery Usage
+- Add more settings options
